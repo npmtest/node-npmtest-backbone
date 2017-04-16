@@ -1,7 +1,7 @@
 # test coverage for  [backbone (v1.3.3)](https://github.com/jashkenas/backbone#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-backbone.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-backbone) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-backbone.svg)](https://travis-ci.org/npmtest/node-npmtest-backbone)
 #### Give your JS App some Backbone with Models, Views, Collections, and Events.
 
-[![NPM](https://nodei.co/npm/backbone.png?downloads=true)](https://www.npmjs.com/package/backbone)
+[![NPM](https://nodei.co/npm/backbone.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/backbone)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-backbone/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-backbone/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-backbone/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-backbone/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-backbone/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-backbone/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-backbone/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-backbone/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-backbone/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-backbone/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-backbone%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-backbone/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-backbone/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-backbone/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-backbone/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-backbone%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-backbone/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-backbone/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-backbone/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-backbone/build/screenCapture.npmPackageListing.svg)
 
@@ -72,21 +72,17 @@
     "main": "backbone.js",
     "maintainers": [
         {
-            "name": "braddunbar",
-            "email": "dunbarb2@gmail.com"
+            "name": "braddunbar"
         },
         {
-            "name": "jashkenas",
-            "email": "jashkenas@gmail.com"
+            "name": "jashkenas"
         },
         {
-            "name": "jridgewell",
-            "email": "justin+npm@ridgewell.name"
+            "name": "jridgewell"
         }
     ],
     "name": "backbone",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jashkenas/backbone.git"
